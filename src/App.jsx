@@ -82,7 +82,7 @@ function App() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="./my_game.html"
+                    href="./mygame.html"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
