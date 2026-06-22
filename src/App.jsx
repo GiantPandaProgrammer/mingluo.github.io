@@ -10,6 +10,8 @@ import { FaLinkedinIn } from "react-icons/fa";
 import Typewriter from "typewriter-effect";
 import Particles from "react-tsparticles";
 import Particle from './Particle';
+import dragon from './assets/dragon.png'; 
+
 /*
   type writer effect
  about me section
@@ -48,7 +50,6 @@ function App() {
                   </Typewriter>
                 </div>
             </Col>
-
             <Col md={5}>
               <img
                 src={me}
@@ -77,6 +78,16 @@ function App() {
                     className="icon-colour  home-social-icons"
                   >
                     <FaLinkedinIn size={30} color="#e4e4e4"/>
+                  </a>
+                </li>
+                <li className="social-icons">
+                  <a
+                    href="./my_game.html"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="icon-colour  home-social-icons"
+                  >
+                    <img src={dragon} alt="Dragon" style={{ width: '32px', height: '32px' }} />
                   </a>
                 </li>
               </ul>
