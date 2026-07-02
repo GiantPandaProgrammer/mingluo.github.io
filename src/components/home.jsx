@@ -33,9 +33,10 @@ function Home() {
                 <Typewriter
                   options={{
                     strings: [
-                      "Software Developer",
+                      "Coder",
+                      "Gamer",
                       "Volunteer",
-                      "Hobbyist Musician"
+                      "Musician"
                     ],
                     autoStart: true,
                     loop: true,
