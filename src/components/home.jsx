@@ -83,7 +83,7 @@ function Home() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="/mingluo.github.io/mygame.html"
+                    href="https://www.lexaloffle.com/bbs/?tid=158540"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
