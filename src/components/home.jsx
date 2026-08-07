@@ -34,7 +34,7 @@ function Home() {
                   options={{
                     strings: [
                       "Coder",
-                      "Gamer Maker",
+                      "Game Maker",
                       "Volunteer",
                       "Musician",
                       "Cashier",
