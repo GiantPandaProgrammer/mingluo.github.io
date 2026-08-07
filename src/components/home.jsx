@@ -34,9 +34,11 @@ function Home() {
                   options={{
                     strings: [
                       "Coder",
-                      "Gamer",
+                      "Gamer Maker",
                       "Volunteer",
-                      "Musician"
+                      "Musician",
+                      "Cashier",
+                      "Billingual"
                     ],
                     autoStart: true,
                     loop: true,
